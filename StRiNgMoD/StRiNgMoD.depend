@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609446598 source:c:\users\jakub\onedrive\pulpit\c_tutorial\stringmod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
