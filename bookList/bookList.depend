@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609515502 source:c:\users\jakub\onedrive\pulpit\c_tutorial\booklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+
+1609501508 c:\users\jakub\onedrive\pulpit\c_tutorial\booklist\structures.h
+
